@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiceGame Team2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="instruction"> 1. Click “PLAY” button to start rolling the dices;
+2. A dialogue pop up for you to choose your die number;
+3. Click “OK” to submit your number;
+4. A dialogue pop up to show you the results;
+5. Click “CONTINUE” to play the next round;
+6. Click” EXIT” to exit the game;
+7. Click “STATS” to review the results history;
+8. Click “HELP” to read the game instruction;
+ </string>
+
+</resources>
