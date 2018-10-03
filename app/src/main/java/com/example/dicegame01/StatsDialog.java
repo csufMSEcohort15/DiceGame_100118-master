@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class StatsDialog extends DialogFragment
 {
-    private ArrayList<Stats> roundResults;
+    public ArrayList<Stats> roundResults;
 
     public StatsDialog()
     {

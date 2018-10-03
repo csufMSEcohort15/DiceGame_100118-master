@@ -2,9 +2,9 @@ package com.example.dicegame01;
 
 public class Stats
 {
-    private int computerScore;
-    private int playerScore;
-    private String roundWinner;
+    public int computerScore;
+    public int playerScore;
+    public String roundWinner;
 
     public Stats()
     {

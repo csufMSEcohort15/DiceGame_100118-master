@@ -9,9 +9,9 @@ import android.widget.NumberPicker;
 
 public class ContinueGameDialog extends DialogFragment
 {
-    private int computerResult;
-    private int playerResult;
-    private String gameResult;
+    public int computerResult;
+    public int playerResult;
+    public String gameResult;
 
     public ContinueGameDialog()
     {

@@ -12,7 +12,7 @@ public class DiceNumberSelectorDialog extends DialogFragment {
 
     private NumberPicker.OnValueChangeListener onValueChangeListener;
 
-    private int firstDieRolled;
+    public int firstDieRolled;
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
