@@ -59,7 +59,7 @@
         android:textColor="@android:color/white"
         android:text="Help" />
 
-    <pl.droidsonroids.gif.GifImageView
+    <ImageView
         android:id="@+id/die1Image"
         android:layout_width="60dp"
         android:layout_height="60dp"
@@ -68,7 +68,7 @@
         android:layout_marginTop="5dp"
         android:src="@drawable/die_1" />
 
-    <pl.droidsonroids.gif.GifImageView
+    <ImageView
         android:id="@+id/die2Image"
         android:layout_width="60dp"
         android:layout_height="60dp"
@@ -88,7 +88,7 @@
         android:text="Player: "
         android:textColor="@android:color/white" />
 
-    <pl.droidsonroids.gif.GifImageView
+    <ImageView
         android:id="@+id/die3Image"
         android:layout_width="60dp"
         android:layout_height="60dp"
@@ -97,7 +97,7 @@
         android:layout_marginTop="5dp"
         android:src="@drawable/die_1" />
 
-    <pl.droidsonroids.gif.GifImageView
+    <ImageView
         android:id="@+id/die4Image"
         android:layout_width="60dp"
         android:layout_height="60dp"
